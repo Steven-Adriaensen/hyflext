@@ -19,3 +19,10 @@ Content:
   - kp: 0-1 Knapsack Problem
   - qap: Quadratic Assignment Problem
   - mac: Max Cut Problem
+  
+- naive: Provides the 'naive' hyperheuristics that were used as a baseline for comparison.
+  The source code of the other hyperheuristics used can be found:
+  (NR-)FS-ILS: https://github.com/Steven-Adriaensen/FS-ILS
+  Adap-HH/GIHH: http://allserv.kahosl.be/~mustafa.misir/gihh.html
+  EPH: http://www.lalea.fr/public/index.php?cmd=smarty&id=11_len
+  
