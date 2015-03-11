@@ -15,5 +15,7 @@ Adriaensen, Steven, Gabriela Ochoa, and Ann Nowé. "A Benchmark Set Extension an
 }
 
 Content:
-ACTUAL CONTENT WILL BE MADE AVAILABLE ON PUBLICATION OF THE ARTICLE ABOVE
- 
+- domains: Provides the resources (jars + descriptions) for all 3 domains extending the HyFlex benchmark set:
+  - kp: 0-1 Knapsack Problem
+  - qap: Quadratic Assignment Problem
+  - mac: Max Cut Problem
