@@ -14,9 +14,9 @@ For each of these domains a jar file is provided, containing their respective bi
 alongside with the original chesc.jar (containing HyFlex itself), 
 which can be found at [http://www.asap.cs.nott.ac.uk/external/chesc2011/](http://www.asap.cs.nott.ac.uk/external/chesc2011/)
 2. In your code, create an instance of the desired ProblemDomain class:
-- kp: KnapsackProblem.class 
-- qap: QAP.class 
-- mac: MaxCut.class 
+  - kp: KnapsackProblem.class 
+  - qap: QAP.class 
+  - mac: MaxCut.class 
 3. Use this instance, as you would use any of the 6 original HyFlex domains.
 
 If you do use any of these resources for your research, we kindly ask you to acknowledge this, by citing the following article:
