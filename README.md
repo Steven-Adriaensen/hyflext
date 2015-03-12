@@ -14,7 +14,7 @@ Adriaensen, Steven, Gabriela Ochoa, and Ann Nowé. "A Benchmark Set Extension an
   organization={IEEE}
 }
 
-Content:
+**Content**:
 - domains: Provides the resources (jars + descriptions) for all 3 domains extending the HyFlex benchmark set:
   - kp: 0-1 Knapsack Problem
   - qap: Quadratic Assignment Problem
@@ -22,7 +22,7 @@ Content:
   
 - naive: Provides the 'naive' hyperheuristics that were used as a baseline for comparison.
   The source code of the other hyperheuristics used can be found:
-  (NR-)FS-ILS: https://github.com/Steven-Adriaensen/FS-ILS
-  Adap-HH/GIHH: http://allserv.kahosl.be/~mustafa.misir/gihh.html
-  EPH: http://www.lalea.fr/public/index.php?cmd=smarty&id=11_len
+  (NR-)FS-ILS: [https://github.com/Steven-Adriaensen/FS-ILS](https://github.com/Steven-Adriaensen/FS-ILS)
+  Adap-HH/GIHH:[http://allserv.kahosl.be/~mustafa.misir/gihh.html](http://allserv.kahosl.be/~mustafa.misir/gihh.html)
+  EPH: [http://www.lalea.fr/public/index.php?cmd=smarty&id=11_len](http://www.lalea.fr/public/index.php?cmd=smarty&id=11_len)
   
