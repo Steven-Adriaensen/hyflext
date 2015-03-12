@@ -1,10 +1,11 @@
 # hyflext
-Resources (data + logic) used during the experiments performed in scope of the research article: "A Benchmark Set Extension and Comparative Study for the HyFlex Framework" (Adriaensen et al, 2015)
+Resources (data + logic) used during the experiments performed in scope of the research article: <br />
+"*A Benchmark Set Extension and Comparative Study for the HyFlex Framework*" (Adriaensen et al, 2015)
 
 Feel free to use any of these in your own research. 
 If you do use any of these resources for your research, we kindly ask you to acknowledge this, by citing the following article:
 
-Adriaensen, Steven, Gabriela Ochoa, and Ann Nowé. "A Benchmark Set Extension and Comparative Study for the HyFlex Framework." Evolutionary Computation (CEC), 2015 IEEE Congress on. IEEE, 2015.
+Adriaensen, Steven, Gabriela Ochoa, and Ann Nowé. "*A Benchmark Set Extension and Comparative Study for the HyFlex Framework.*" Evolutionary Computation (CEC), 2015 IEEE Congress on. IEEE, 2015.
 
 @inproceedings{adriaensen2015benchmark, <br /> 
   title={A Benchmark Set Extension and Comparative Study for the HyFlex Framework}, <br /> 
@@ -22,7 +23,7 @@ Adriaensen, Steven, Gabriela Ochoa, and Ann Nowé. "A Benchmark Set Extension an
   
 - naive: Provides the 'naive' hyperheuristics that were used as a baseline for comparison.
   The source code of the other hyperheuristics used can be found:
-  (NR-)FS-ILS: [https://github.com/Steven-Adriaensen/FS-ILS](https://github.com/Steven-Adriaensen/FS-ILS)
-  Adap-HH/GIHH:[http://allserv.kahosl.be/~mustafa.misir/gihh.html](http://allserv.kahosl.be/~mustafa.misir/gihh.html)
-  EPH: [http://www.lalea.fr/public/index.php?cmd=smarty&id=11_len](http://www.lalea.fr/public/index.php?cmd=smarty&id=11_len)
+  - (NR-)FS-ILS: [https://github.com/Steven-Adriaensen/FS-ILS](https://github.com/Steven-Adriaensen/FS-ILS)
+  - Adap-HH/GIHH:[http://allserv.kahosl.be/~mustafa.misir/gihh.html](http://allserv.kahosl.be/~mustafa.misir/gihh.html)
+  - EPH: [http://www.lalea.fr/public/index.php?cmd=smarty&id=11_len](http://www.lalea.fr/public/index.php?cmd=smarty&id=11_len)
   
