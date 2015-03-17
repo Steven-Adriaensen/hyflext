@@ -26,4 +26,7 @@ Adriaensen, Steven, Gabriela Ochoa, and Ann Nowé. "*A Benchmark Set Extension a
   - (NR-)FS-ILS: [https://github.com/Steven-Adriaensen/FS-ILS](https://github.com/Steven-Adriaensen/FS-ILS)
   - Adap-HH/GIHH:[http://allserv.kahosl.be/~mustafa.misir/gihh.html](http://allserv.kahosl.be/~mustafa.misir/gihh.html)
   - EPH: [http://www.lalea.fr/public/index.php?cmd=smarty&id=11_len](http://www.lalea.fr/public/index.php?cmd=smarty&id=11_len)
-  
+
+- data: Provides the experimental data used in our comparative study
+  - data.csv: The best solution quality obtained for 31, 10 minutes runs, on each of the 98 instances, for all 6 methods (total of 18228 runs).
+  - medians.csv: The median (best) solution quality obtained by each method, per instance, after 10 minutes.

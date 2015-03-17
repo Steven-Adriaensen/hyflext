@@ -10,7 +10,7 @@ For each of these domains a jar file is provided, containing their respective bi
 
 **To use the domains**:
 
-1. add one of the jar files to the classpath of your project, 
+1. Add one of the jar files to the classpath of your project, 
 alongside with the original chesc.jar (containing HyFlex itself), 
 which can be found at [http://www.asap.cs.nott.ac.uk/external/chesc2011/](http://www.asap.cs.nott.ac.uk/external/chesc2011/)
 2. In your code, create an instance of the desired ProblemDomain class:
